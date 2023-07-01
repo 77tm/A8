@@ -1,0 +1,5 @@
+Ievads      Programmas vēlamā reakcija      Rezultāts C++       Rezultāts Python
+-3          "Tas nav naturals skaitlis!"    +                   +
+0           "Tas nav naturals skaitlis!"    +                   +
+8           4                               +                   +
+100         4  25  100                      +                   +

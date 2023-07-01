@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args":[],
+      "stopAtEntry": true,
+      "externalConsole": true,
+      "cwd": "/Users/a77/Documents/programmesana/laboratorijas_darbi/D19/*.cpp",
+      "program": "/Users/a77/Desktop/programmesana/laboratorijas_darbi/Tests/main.cpp/build/Debug/outDebug",
+      "MIMode": "gdb"
+    }
+  ]
+}
